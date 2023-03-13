@@ -1,0 +1,13 @@
+{
+    "full_name": "John Doe",
+    "first_name": "John",
+    "last_name": "Doe",
+    "valid_email": "valid_email@email.com",
+    "valid_password": "Valid_pass123",
+    "invalid_email": "invalid_email@email",
+    "invalid_password": "invalid_pass",
+    "phone_number": "123456789",
+    "company_name": "Test Inc.",
+    "website_url": "test.com",
+    "promo_code": "12345"
+}
